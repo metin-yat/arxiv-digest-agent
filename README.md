@@ -80,8 +80,8 @@ You can easily adapt this agent for other research fields by modifying the const
 * `RELEVANCE_THRESHOLD`: Raise or lower the strictness of the filter.
 
 ## Example Output
-![Email Output 1](screenshots/image1.png)
-![Email Output 2](screenshots/image2.png)
+![Email Output 1](screenshots/image_1.png)
+![Email Output 2](screenshots/image_2.png)
 
 ## License
 
