@@ -79,6 +79,10 @@ You can easily adapt this agent for other research fields by modifying the const
 * `SUMMARY_SYSTEM`: Adjust the persona and focus of the AI-generated summary.
 * `RELEVANCE_THRESHOLD`: Raise or lower the strictness of the filter.
 
+## Example Output
+![Email Output 1](screenshots/image1.png)
+![Email Output 2](screenshots/image2.png)
+
 ## License
 
 MIT License. See `LICENSE` for details.
